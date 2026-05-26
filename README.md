@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Prakhar and I'm a Data Analyst, from Delhi</h2>
+<h2 align="center">Hi 👋! My name is Prakhar and I'm a Business Analyst, from Delhi</h2>
 
 ###
 
