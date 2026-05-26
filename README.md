@@ -58,9 +58,8 @@
 ###
 
 <!-- <div align="center">
+  ![](https://komarev.com/ghpvc/?username=prakharaug)
   <img src="https://profile-counter.glitch.me/prakharaug/count.svg?"  />
 </div> -->
-
-![](https://komarev.com/ghpvc/?username=prakharaug)
 
 ###
